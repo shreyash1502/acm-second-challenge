@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "493880676597",
+    "firebase_url": "https://acm-android-challenge-second.firebaseio.com",
+    "project_id": "acm-android-challenge-second",
+    "storage_bucket": "acm-android-challenge-second.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493880676597:android:612e6aeb537524e1f7f5bc",
+        "android_client_info": {
+          "package_name": "com.example.acmandroidchallengesecond"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493880676597-hdj5di27o035qukm99stf0bqfics611a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acmandroidchallengesecond",
+            "certificate_hash": "420d50948dd6ebbe9075855180103143412a4db4"
+          }
+        },
+        {
+          "client_id": "493880676597-s9oa9d2s6uu7ihagrd18e6ct5v0qav6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN1rUOgbNOHr8V9X7WHlow-baasq0pNg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493880676597-s9oa9d2s6uu7ihagrd18e6ct5v0qav6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
